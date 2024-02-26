@@ -1,0 +1,27 @@
+.container-fluid{
+    background-image: url(../img/volume-resume-graphique-solitude-bureau_1258-258.jpg);
+}
+    .bg-color-1 {
+      background-color: #f8f9fa;
+    }
+    .bg-color-2 {
+      background-color: #e9ecef;
+    }
+    .bg-color-3 {
+      background-color: #ced4da;
+    }
+    .card {
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+    .card-img-top {
+      transition: transform 0.2s ease-in-out;
+    }
+    .card-img-top:hover {
+      transform: scale(1.1);
+    }
+    .text-center{
+        font-weight: bold;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }

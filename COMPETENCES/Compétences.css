@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/volume-resume-graphique-solitude-bureau_1258-258.jpg);
+}
+
+#espace{
+  border-top: 1px solid #000000;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.card-title{ 
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
